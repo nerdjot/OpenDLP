@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "name": "No PAN Card Pattern",
+      "regex": "[A-Z]{5}[0-9]{4}[A-Z]",
+      "action": "log"
+    },
+    {
+      "name": "No Credit Card Info",
+      "regex": "\\b(?:\\d[ -]*?){13,16}\\b",
+      "action": "log"
+    }
+  ]
+}

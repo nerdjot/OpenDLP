@@ -1,0 +1,6 @@
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"ABCDE1234F","rule":"No PAN Card Pattern","timestamp":1753032944}
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"1234-5678-9012-3456","rule":"No Credit Card Info","timestamp":1753032947}
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"ABCDE1234F","rule":"No PAN Card Pattern","timestamp":1753033081}
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"1234-5678-9012-3456","rule":"No Credit Card Info","timestamp":1753033083}
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"ABCDE1234F","rule":"No PAN Card Pattern","timestamp":1753033342}
+{"file":"C:/Dev/OpenDLP/src/scanner/sample_data/test1.txt","match":"1234-5678-9012-3456","rule":"No Credit Card Info","timestamp":1753033342}
